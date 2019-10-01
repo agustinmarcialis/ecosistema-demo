@@ -1,4 +1,4 @@
-## [<Proyecto Demo ecosistema java]
+## [Proyecto Demo ecosistema java]
 ## Plantilla para la práctica de Ecosistema (IWVG-ecosystem)
 > Plantilla con Spring básico (API, test) 
 
